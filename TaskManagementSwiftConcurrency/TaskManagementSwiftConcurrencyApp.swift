@@ -11,7 +11,7 @@ import SwiftUI
 struct TaskManagementSwiftConcurrencyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TaskManagerView()
         }
     }
 }
